@@ -1,0 +1,13 @@
+{
+  "name": "http-studying",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js",
+    "api": "nodemon api/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
